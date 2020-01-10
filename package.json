@@ -1,5 +1,5 @@
 {
-  "name": "starwars-express",
+  "name": "starwars-h01",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -12,6 +12,6 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
+  "author": "Andre Barreto",
   "license": "ISC"
 }
